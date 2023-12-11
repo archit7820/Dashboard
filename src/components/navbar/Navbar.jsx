@@ -13,11 +13,11 @@ const Navbar = () => {
             <img src = "/app.svg"  alt =" " className="icon" />
             <img src = "/expand.svg"  alt =" " className="icon" />
             <div className="notification">
-                <img className='/notification.svg' alt = ""/>
+                <img className='/notification.svg' alt = ""  src ="/notifications.svg"/>
               <span>1</span>
             </div>
             <div className="user">
-                <img src= ""  alt ="" />
+                <img src= "/profile.svg"  alt ="" />
                 <span>Archit</span>
             </div>
             <img src = "/settings.svg"  alt =" " className="icon" />

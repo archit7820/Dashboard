@@ -453,6 +453,33 @@ export const userRows = [
     phone: "123 456 789",
     createdAt: "01.02.2023",
   },
+  {
+    id: 55,
+    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    lastName: "Griffin",
+    firstName: "Eric",
+    email: "ubi@gmail.com",
+    phone: "123 456 789",
+    createdAt: "01.02.2023",
+  },
+  {
+    id: 25,
+    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    lastName: "Griffin",
+    firstName: "Eric",
+    email: "ubi@gmail.com",
+    phone: "123 456 789",
+    createdAt: "01.02.2023",
+  },
+  {
+    id: 20,
+    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    lastName: "Griffin",
+    firstName: "Eric",
+    email: "ubi@gmail.com",
+    phone: "123 456 789",
+    createdAt: "01.02.2023",
+  },
 ];
 
 export const products = [
@@ -553,6 +580,7 @@ export const products = [
     createdAt: "01.02.2023",
     inStock: true,
   },
+  
 ];
 
 
